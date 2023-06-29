@@ -1,13 +1,6 @@
-# co9634cf5a9cfd6a8c88b4e38
+# Poetic Phrase Generator 
+Create AI-generated witty and satirical poetic phrases about your favorite activities and places to visit.
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
